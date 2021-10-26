@@ -174,6 +174,11 @@ http://www.example.com/redirect.php?url=javascript:prompt(1)
 ?checkout_url={payload}
 ?continue={payload}
 ?return_path={payload}
+?cancelUrl={payload}
+?follow={payload}
+?goto={payload}
+?history={payload}
+?goback={payload}
 ```
 
 ## References
